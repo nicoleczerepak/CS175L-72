@@ -69,7 +69,7 @@ public class house {
 		
 		//Total cost to paint
 		paintCost = paintsurface * SqFtCost; 
-		System.out.println("The cost to paint the house is: " + paintCost);
+		System.out.println("The cost to paint the house is: " + paintCost + "dollars");
 		
 
 		
