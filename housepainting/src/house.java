@@ -3,7 +3,7 @@ public class house {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		
+	//these are my varibles	
 		int length = 0;
 		int width = 0;
 		int height = 0;
