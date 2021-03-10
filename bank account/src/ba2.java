@@ -26,7 +26,9 @@ public class ba2 {
 			double depositAmount = in.nextDouble();
 			myBankAccount.deposit(depositAmount);
 			
-			BankAccount.deposit(in.nextDouble());//del
+		
+			myBankAccount.deposit(in.nextDouble());
+			//del
 			
 			//System.out.println("The balance of your account is $" + BankAccount.getBalance()); //del
 			
